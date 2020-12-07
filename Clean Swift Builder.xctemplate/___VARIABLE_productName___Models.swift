@@ -8,10 +8,4 @@
 
 import Foundation
 
-// MARK: - Model
-
 enum ___VARIABLE_productName___ { }
-
-// MARK: - Use Case
-
-extension ___VARIABLE_productName___ { }
