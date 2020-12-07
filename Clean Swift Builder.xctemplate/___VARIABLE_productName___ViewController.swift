@@ -23,12 +23,8 @@ class ___VARIABLE_productName___ViewController: UIViewController, ___VARIABLE_pr
         super.init(coder: aDecoder)
         setup()
     }
-}
 
-// MARK: - Private funcs.
-
-private extension ___VARIABLE_productName___ViewController {
-    func setup() {
+    private func setup() {
         let viewController = self
         let interactor = ___VARIABLE_productName___Interactor()
         let presenter = ___VARIABLE_productName___Presenter()
